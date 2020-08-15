@@ -1,0 +1,103 @@
+body{
+    background-image: url(BgImg.jpg);
+    background-size: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px 0px 20px 0px; 
+    text-align:center;
+    padding-top: 100px;
+    color: antiquewhite;  
+}
+
+p{
+    font-size:12px;
+    text-decoration: none;
+    color:#ffffff;
+    font-size: 104%;
+  }
+  
+h2{
+    font-size: 175%;
+    
+}
+.box{
+    background-color: rgb(255, 255, 255, 0.3) ;
+    border: 0.05px solid gray;
+    border-radius: 2%;
+    padding: 5px 40px 10px 40px;
+    margin:10px 510px 10px 510px;
+    box-shadow: 6px 6px #404040;
+}
+.box2{
+    background-color: rgb(255, 255, 255, 0.3) ;
+    border: 0.05px solid gray;
+    border-radius: 2%;
+    padding: 5px 40px 70px 40px;
+    margin:10px 510px 10px 510px;
+    box-shadow: 6px 6px #404040;
+
+}
+.noacc{
+    font-size: 80%;
+}
+
+    
+.uname, .password, .email, .fname, .lname{
+    padding: 1px 40px 3px 40px;
+    border: 2px solid white;
+    border-radius: 7px;
+}
+.uname:hover, .password:hover, .email:hover, .fname:hover, .lname:hover{
+    color: lightgrey;
+    border: 0.05px solid black;
+    
+}
+.rem{
+    font-size: 80%;
+    padding-top: 10px;
+    padding-bottom: 50px ;
+}
+.rem:hover{
+    color: skyblue;
+}
+
+.btn{
+    background-color: #008fb3;
+    margin: 10px 60px 10px 60px;
+    padding: 10px 5px 10px 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: whitesmoke;
+    
+}
+.btn:hover{
+    background-color: deepskyblue;
+    opacity: 0.8;
+    border: 2px solid lightskyblue;
+}
+a{
+    text-decoration: none;  
+}
+.btn2{
+    color: #3399ff;
+}
+.btn2:hover{
+    text-decoration: display;
+    color: #b3ecff;
+}
+
+.btn3{
+    background-color: #008fb3;
+    margin: 10px 60px 10px 60px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+.btn3:hover {
+    background-color: deepskyblue;
+    opacity: 0.8;
+    border: 2px solid lightskyblue;
+}
+label{
+    display:inline-block;
+}
